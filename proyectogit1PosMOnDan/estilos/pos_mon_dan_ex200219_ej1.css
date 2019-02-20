@@ -23,7 +23,7 @@
     grid-column: 1/3;
   }
 }
-.contenedorposmondan header, .contenedorposmondan aside, .contenedorposmondan main, .contenedorposmondan footer {
+.contenedorposmondan header, .contenedorposmondan main, .contenedorposmondan footer {
   display: flex;
   background-color: #eaeaea;
   align-items: center;
